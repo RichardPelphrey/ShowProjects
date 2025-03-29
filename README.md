@@ -1,6 +1,4 @@
 # ShowProjects
-This Repository contains projects that hopefully showcase my abilities.
+This Repository contains projects which display some of my skills and abilities. The repository is solely in python.
 
-Each folder here contains a different project. I hope to have projects
-in the feilds of machine learning, physics, motor control, and genereric
-control to name a few. 
+The projects found within should showcase generic coding ability, knowledge of a few different libraries, and ability to implement numerical analysis, machine learning, and other techincal topics.
